@@ -1,1 +1,1 @@
-This is a project follow from Udemy Course.
+This is a project followed from Udemy Course.
