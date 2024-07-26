@@ -1,1 +1,3 @@
-This is a project followed from Udemy Course.
+This is a Udemy Course.
+
+https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/
